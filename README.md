@@ -1,6 +1,6 @@
 
-<div style="text-align: center;">
-<img src="./images/logo_adela.jpg" alt="logo" width="200"/>
+<div align="center">
+<img src="./images/logo_adela.jpg" alt="logo" width="600"/>
 </div>
 
 
