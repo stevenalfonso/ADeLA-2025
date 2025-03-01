@@ -1,10 +1,10 @@
 
 <div style="text-align: center;">
-# ADeLA 2025
+ADeLA 2025
 </div>
 
 <div style="text-align: center;">
-## Astronomía Dinámica en LatinoAmérica
+Astronomía Dinámica en LatinoAmérica
 </div>
 
 ![Mi imagen](./images/logo_adela.jpg)
