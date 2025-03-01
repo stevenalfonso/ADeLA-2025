@@ -1,13 +1,7 @@
 
-<div style="text-align: center;">
-ADeLA 2025
+<div align="center">
+<img src="./images/logo_adela.jpg" alt="logo" width="200"/>
 </div>
-
-<div style="text-align: center;">
-Astronomía Dinámica en LatinoAmérica
-</div>
-
-![Mi imagen](./images/logo_adela.jpg)
 
 
 ADeLA reunirá a investigadores de todos los países latinoamericanos, y más allá, para compartir sus recientes investigaciones y descubrimientos, así como evaluar el estado del arte en Astrometría y Astronomía Dinámica. Además, es una gran oportunidad para establecer nuevas colaboraciones y buscar posibles financiamientos en áreas como técnicas astrométricas terrestres y espaciales (paralajes trigonométricas, movimientos propios, sistemas de referencia, catálogos, mantenimiento del tiempo, etc.), técnicas de interferometría radio y óptica, seguimiento astrométrico de satélites y escombros espaciales, estructura galáctica, estudios del Sistema Solar incluyendo redes de detectiones de bólidos, entre otros. 
