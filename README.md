@@ -9,8 +9,22 @@ ADeLA reunirá a investigadores de todos los países latinoamericanos, y más al
 
 Del 7 al 9 de abril al mediodía se realizará la reunión principal y del 9 en la tarde al 11 se llevará a cabo el Taller Avanzado  "Astrofísica con Gaia y Aprendizaje Automático", dirigido a estudiantes graduados de Astronomía y Ciencias Planetarias. Este taller se centrará en el procesamiento adecuado y el uso óptimo de los datos y recursos del catálogo Gaia para diversos temas astrofísicos, incluyendo la aplicación de herramientas de aprendizaje automático (machine learning).
 
-Curso 1
-Curso 2
-Curso 3
 
-# Tematicas
+# Session 1 (Carlos Ferreira)
+
+
+# Session 2 (Steven Alfonso)
+## Machine Learning on *Gaia* data
+* Unsupervised techniques
+
+    * DBSCAN
+    * HDBSCAN
+
+* Supervised techniques
+
+    * CNN
+
+
+# Session 3 (Carlos Ferreira)
+
+
